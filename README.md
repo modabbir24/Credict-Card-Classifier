@@ -1,1 +1,1 @@
-# Credict-Card-Classifier
+# Credit-Card-Classifier
